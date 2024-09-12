@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **svelte**
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/ymuOeRsef2NVLAOdny2ky7/Portfolio?page-id=0%3A1&type=design&node-id=11-513&viewport=350%2C324%2C0.11&t=LqSAAMC5NyYsGyyD-1&scaling=min-zoom&mode=design](https://www.figma.com/proto/ymuOeRsef2NVLAOdny2ky7/Portfolio?page-id=0%3A1&type=design&node-id=11-513&viewport=350%2C324%2C0.11&t=LqSAAMC5NyYsGyyD-1&scaling=min-zoom&mode=design)
-
-- 💬 Ask me about **JavaScript, TypeScript and Python**
+- 💬 Ask me about **JavaScript, TypeScript , MERN and Python**
 
 - 📫 How to reach me **swarajbangar77@gmail.com**
 
